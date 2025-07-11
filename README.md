@@ -10,9 +10,9 @@ A Power BI mockup designed for monitoring global inventory evolution and perform
 - **Inventory by Plant**: Visual distribution across global locations.
 - **Inventory Trend Chart**: Annotated bar chart showing % changes and highlighting upward/downward movements.
 
-## 📊 Visuals (Screenshot)
+## 📸 Dashboard Preview
 
-![Inventory Trend Dashboard](./images/inventory_trend_dashboard.png)
+![Inventory Trend Dashboard](./Inventory_Trend_Dashboard.png)
 
 ## Sample DAX Scripts
 
